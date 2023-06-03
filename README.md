@@ -2,6 +2,9 @@ This repository contains practical notebooks for my work in COMP2200 (Data Scien
 
 These concepts/techniques include:
 -Correlation/causation
+
 -Predictive modelling
+
 -Decision tree models
+
 -Artifical neural networks
